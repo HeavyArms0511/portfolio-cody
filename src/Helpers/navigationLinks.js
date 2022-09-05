@@ -12,10 +12,6 @@ export const navigationLinks = [
     ref: "#technologies"
 },
     {
-    name: "RESUME",
-    ref: "#resume"
-},
-    {
     name: "CONTACT",
     ref: "#contact"
 },
