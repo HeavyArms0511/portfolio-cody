@@ -7,6 +7,10 @@ export const navigationLinks = [
     name: "ABOUT ME",
     ref: "#about-me"
 },
+{
+    name: "TECHNOLOGIES",
+    ref: "#technologies"
+},
     {
     name: "RESUME",
     ref: "#resume"
