@@ -3,7 +3,8 @@ import Navigation from './screens/navigationBar/NavigationBar';
 import Particles from './Particles';
 import Header from './screens/header/Header';
 import AboutMe from './screens/aboutMe/AboutMe';
-import Technologies from './screens/technologies/Technologies'
+import Technologies from './screens/technologies/Technologies';
+import ContactMe from './screens/contactMe/ContactMe';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
      <Particles />
      <AboutMe />
      <Technologies />
+     <ContactMe />
     </div>
   );
 }
