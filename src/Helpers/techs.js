@@ -42,5 +42,10 @@ export const techs = [
         iconName: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github icon"/>
 
     },
+    {
+        
+        iconName: <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman icon"/>
+
+    },
    
 ]
