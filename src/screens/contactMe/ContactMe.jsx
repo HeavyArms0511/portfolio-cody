@@ -20,6 +20,7 @@ function ContactMe() {
                 <p>codymundy5@gmail.com</p>
                 <p><a href="https://www.linkedin.com/in/cody-mundy-b2742a98/">LinkedIn</a></p>
                 </div>
+                <p><a href="https://github.com/HeavyArms0511">GitHub</a></p>
                   
                 <div>
                    {createLinks()}

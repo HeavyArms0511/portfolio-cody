@@ -1,0 +1,38 @@
+.treasure-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 50px;
+    padding: 1rem;
+    max-height: 25%;
+}
+
+.treasure{
+    height: 225px;
+    
+}
+
+.api{
+    height: 225px;
+}
+
+.api-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 50px;
+    padding: 1rem;
+
+}
+
+.project_text{
+    text-align: center;
+    padding: 3rem
+}
+
+.api{
+    display:flex;
+    align-items:center;
+    margin:50px;
+}
