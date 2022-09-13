@@ -9,7 +9,7 @@
 
 .treasure{
     height: 225px;
-    
+    justify-content: center;
 }
 
 .api{

@@ -1,13 +1,13 @@
 import React from 'react'
 import './aboutMe.css'
-import me from '../../images/me.webp'
+import army from '../../images/army.jpg'
 
 
 function AboutMe() {
   return (
     <div className="about-container" id="about-me">
         <div>
-        <img src={me} alt="Pic of me" />
+        <img src={army} alt="Pic of me" />
         </div>
         <div className="about_text">
             <h1>ABOUT ME</h1>
