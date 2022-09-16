@@ -17,7 +17,7 @@ function ContactMe() {
             <div>
                 <p>Springfield, Illinois</p>
                 <p>Cody Mundy</p>
-                <p>codymundy5@gmail.com</p>
+                <a href='mailto:codymundy5@gmail.com'>codymundy5@gmail.com</a>
                 <p><a href="https://www.linkedin.com/in/cody-mundy-b2742a98/">LinkedIn</a></p>
                 </div>
                 <p><a href="https://github.com/HeavyArms0511">GitHub</a></p>

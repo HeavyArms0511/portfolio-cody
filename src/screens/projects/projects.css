@@ -1,39 +1,37 @@
 .treasure-container{
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin: 50px;
-    padding: 1rem;
+    flex-direction: column;
+    margin: auto;
     justify-content: space-around;
+    padding:1rem;
 }
+
+
 
 .treasure{
     height: 225px;
-    justify-content: center;
+    margin: 0 auto;
+    width: 400px;
 }
 
 .api{
     height: 225px;
+    margin: 0 auto;
+    width: 400px;
 }
 
-.api-container{
+.project-container{
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-    margin: 50px;
-    padding: 1rem;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding: 30px;
+    text-align: center;
+    max-width: 450px;
     
-
 }
 
 .project_text{
     text-align: center;
     padding: 3rem
-}
-
-.api{
-    display:flex;
-    align-items:center;
-    margin:50px;
 }
